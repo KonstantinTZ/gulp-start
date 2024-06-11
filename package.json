@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KonstantinTZ/gulp-start/issues"
   },
-  "homepage": "https://github.com/KonstantinTZ/gulp-start#readme"
+  "homepage": "https://github.com/KonstantinTZ/gulp-start#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  }
 }
